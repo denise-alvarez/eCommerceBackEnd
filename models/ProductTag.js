@@ -5,17 +5,7 @@ const sequelize = require('../config/connection');
 class ProductTag extends Model {}
 
 ProductTag.init(
-  {
-    tag_id: {
-    type: DataTypes.INTEGER,
-    allowNull: false,
-    primaryKey: true
-    },
-    prodeuct_id: {
-     type: DataTypes.INTEGER,
-     allowNull: false 
-    }
-  },
+  {},
   {
     sequelize,
     timestamps: false,
