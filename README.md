@@ -19,7 +19,10 @@ This application is the back end for an e-commerce site. Which was done by confi
 
 ### Walkthrough Video Link
 
-[DEMO](youtubelink)
+[Install Demo](https://youtu.be/A7X7eeVEd8c)<br/>
+[Categories Demo](https://youtu.be/s2wyw6vXh1c)<br/>
+[Product Demo](https://youtu.be/1cFZG5aQWJk)<br/>
+[Tag Demo](https://youtu.be/2JrzP8zcmFE)
 
 ## Links
 [Denise Alvarez GitHub Link](https://github.com/denise-alvarez) <br/>
